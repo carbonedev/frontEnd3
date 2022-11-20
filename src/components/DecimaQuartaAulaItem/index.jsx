@@ -19,10 +19,10 @@ export function DecimaQuartaAulaItem(props) {
 
     },[])
 
-    useEffect(() => {
+    // useEffect(() => {
 
 
-    },[registerDeleted])
+    // },[registerDeleted])
 
     return (
         <li>
